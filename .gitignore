@@ -1,0 +1,5 @@
+input/*
+output/*
+!input/sample.wav
+!output/sample_normalized.wav
+!output/sample_normalized_bandpass.wav
